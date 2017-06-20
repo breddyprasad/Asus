@@ -3,14 +3,14 @@
   <groupId>com.qedge.app</groupId>
   <artifactId>Asus</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>Asus Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
    <connection>scm:git:git@github.com:breddyprasad/Asus.git</connection>
     <developerConnection>scm:git:git@github.com:breddyprasad/Asus.git</developerConnection>
     <url>scm:git:git@github.com:breddyprasad/Asus.git</url>
-  <tag>Asus-0.0.1</tag>
+  <tag>HEAD</tag>
   </scm>
 
 <distributionManagement>
